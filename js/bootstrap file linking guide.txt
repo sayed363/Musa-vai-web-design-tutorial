@@ -1,0 +1,5 @@
+
+Should be js according to this order-
+	jquery-slim.min.js
+	popper.min.js
+	bootstrap.min.js
